@@ -52,18 +52,21 @@ int main(){
         int x;
         cin >> x;
         ptr1->val = x;
-        ptr1->next = new ListNode();
-        ptr1 = ptr1->next;
+        if(i != n1-1){
+            ptr1->next = new ListNode();
+            ptr1 = ptr1->next;
+        }
     }
     for(int i=0; i<n2; i++){
         int x;
         cin >> x;
         ptr2->val = x;
-        ptr2->next = new ListNode();
-        ptr2 = ptr2->next;
+        if(i != n2-1){
+            ptr2->next = new ListNode();
+            ptr2 = ptr2->next;
+        }
     }
     ListNode* ans = s.addTwoNumbers(l1, l2);
-    // in LC the zero node is not printed
     while(ans){
         cout << ans->val;
         ans = ans->next;
