@@ -9,6 +9,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
