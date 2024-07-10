@@ -16,6 +16,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 
