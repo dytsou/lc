@@ -25,6 +25,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [1518. Water Bottles](https://leetcode.com/problems/water-bottles)
 
