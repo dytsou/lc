@@ -49,3 +49,6 @@
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2582. Pass The Pillow](https://leetcode.com/problems/pass-the-pillow)
+
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[2751. Robot Collisions](https://leetcode.com/problems/robot-collisions)
