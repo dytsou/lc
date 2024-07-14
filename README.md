@@ -25,6 +25,10 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[726. Number of Atoms](https://leetcode.com/problems/number-of-atoms)
+`(Hint: Stack for parsing)`
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)
 
