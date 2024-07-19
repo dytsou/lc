@@ -12,7 +12,11 @@ public:
             ans += word1[i];
             ans += word2[i];
         }
-        return ans + word1.substr(n) + word2.substr(n);
+        for(int i = n; i < word1.size(); i++)
+            ans += word1[i];
+        for(int i = n; i < word2.size(); i++)
+            ans += word2[i];
+        return ans;
     }
 };
 
