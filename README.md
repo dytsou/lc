@@ -52,6 +52,10 @@
 [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)
+`(Hint: Greedy)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
