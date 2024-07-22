@@ -26,6 +26,9 @@
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
