@@ -92,6 +92,10 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
+`(Hint: Topological Sort)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2418. Sort the People](https://leetcode.com/problems/sort-the-people)
 
