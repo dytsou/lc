@@ -90,6 +90,9 @@
 [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)
 
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
