@@ -28,6 +28,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 
