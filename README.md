@@ -19,6 +19,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 
