@@ -44,6 +44,9 @@
 [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms)
 `(Hint: Stack for parsing)`
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[912. Sort an Array](https://leetcode.com/problems/sort-an-array)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)
 `(Hint: GCD in math)`
