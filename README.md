@@ -40,6 +40,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[443. String Compression](https://leetcode.com/problems/string-compression)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 
