@@ -1,6 +1,5 @@
 #include<iostream>
 #include<vector>
-#include<queue>
 #include<climits>
 
 using namespace std;
@@ -12,7 +11,7 @@ public:
         flyodWarshall(n);
         int node = -1, minCount = INT_MAX;
         for(int i=0; i<n; i++){
-            int currCount = count(n, distanceThreshold);
+            int currCount = count(i, n, distanceThreshold);
             if(currCount <= minCount){
                 minCount = currCount;
                 node = i;
