@@ -34,6 +34,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)
 
