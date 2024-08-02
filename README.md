@@ -56,6 +56,10 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
+`(Hint: Sliding Window)`
+
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms)
 `(Hint: Stack for parsing)`
