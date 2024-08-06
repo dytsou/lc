@@ -187,6 +187,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [3216. Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap)
 
