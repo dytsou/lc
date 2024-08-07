@@ -63,6 +63,10 @@
 [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 `(Hint: Sliding Window)`
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
+
+
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms)
 `(Hint: Stack for parsing)`
