@@ -66,10 +66,12 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
 
-
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms)
 `(Hint: Stack for parsing)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array)
