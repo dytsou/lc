@@ -38,6 +38,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
