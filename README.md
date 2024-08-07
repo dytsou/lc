@@ -67,6 +67,10 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
+`(Hint: Adjustable Sliding Window Size)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)
 `(Hint: GCD in math)`
