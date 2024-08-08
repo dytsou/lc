@@ -74,6 +74,10 @@
 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
+`(Simulation)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
