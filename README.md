@@ -154,6 +154,9 @@
 [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced)
 `(Hint: DP)`
 
+[medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)
 `(Hint: Two Pointers, Sort)`
