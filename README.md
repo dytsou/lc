@@ -84,6 +84,10 @@
 [912. Sort an Array](https://leetcode.com/problems/sort-an-array)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
+`(Simulation)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
 `(Hint: Adjustable Sliding Window Size)`
 
