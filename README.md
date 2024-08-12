@@ -213,6 +213,10 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)
+`(Hint: Convert to string)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string)
 
