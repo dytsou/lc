@@ -56,6 +56,9 @@
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[394. Decode String](https://leetcode.com/problems/decode-string)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [443. String Compression](https://leetcode.com/problems/string-compression)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
