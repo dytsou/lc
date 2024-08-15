@@ -89,6 +89,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
 `(Simulation)`
