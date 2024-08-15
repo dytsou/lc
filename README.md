@@ -68,6 +68,9 @@
 [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 `(Hint: Sliding Window)`
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[649. Dota2 Senate](https://leetcode.com/problems/dota2-senate)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 `(Hint: Heap)`
