@@ -64,6 +64,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 `(Hint: Sliding Window)`
