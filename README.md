@@ -77,6 +77,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 `(Hint: Heap)`
