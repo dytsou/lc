@@ -86,6 +86,10 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[664. Strange Printer](https://leetcode.com/problems/strange-printer)
+`(Hint: DP)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 `(Hint: Heap)`
