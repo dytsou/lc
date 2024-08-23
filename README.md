@@ -123,6 +123,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)
 `(Simulation)`
