@@ -143,6 +143,10 @@
 [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
+`(Simulation)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
 `(Simulation)`
 
