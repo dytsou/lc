@@ -316,6 +316,9 @@
 [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens)
 
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[2699. Modify Graph Edge Weight](https://leetcode.com/problems/modify-graph-edge-weight)
+
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
