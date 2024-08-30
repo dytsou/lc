@@ -74,6 +74,9 @@
 [394. Decode String](https://leetcode.com/problems/decode-string)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[437. Path Sum III](https://leetcode.com/problems/path-sum-iii)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [443. String Compression](https://leetcode.com/problems/string-compression)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
