@@ -261,6 +261,9 @@
 [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost)
 `(Hint: DP)`
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array)
+
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [2045. Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination)
 
