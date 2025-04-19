@@ -31,8 +31,17 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[66. Plus One](https://leetcode.com/problems/plus-one)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[67. Add Binary](https://leetcode.com/problems/add-binary)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
@@ -51,6 +60,9 @@
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [246. Ugly Number II](https://leetcode.com/problems/ugly-number-ii)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[263. Ugly Number](https://leetcode.com/problems/ugly-number)
 
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words)
