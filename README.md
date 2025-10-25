@@ -22,6 +22,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 
