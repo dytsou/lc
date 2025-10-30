@@ -58,6 +58,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
