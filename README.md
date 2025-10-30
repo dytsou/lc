@@ -38,6 +38,9 @@
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
