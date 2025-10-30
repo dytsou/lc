@@ -61,6 +61,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
