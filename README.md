@@ -56,6 +56,9 @@
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
