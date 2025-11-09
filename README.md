@@ -337,6 +337,9 @@
 [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii)
 `(Hint: Sliding Window)`
 
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [2191. Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers)
 
