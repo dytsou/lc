@@ -118,6 +118,10 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [443. String Compression](https://leetcode.com/problems/string-compression)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes)
+`(Hint: DP)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [476. Number Complement](https://leetcode.com/problems/number-complement)
 
