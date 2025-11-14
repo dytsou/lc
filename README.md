@@ -370,6 +370,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2418. Sort the People](https://leetcode.com/problems/sort-the-people)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2582. Pass The Pillow](https://leetcode.com/problems/pass-the-pillow)
 
