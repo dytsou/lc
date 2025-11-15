@@ -412,6 +412,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville)
 
