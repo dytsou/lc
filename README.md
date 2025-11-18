@@ -98,6 +98,10 @@
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)
+`(Hint: Merge Sort)`
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
