@@ -356,6 +356,9 @@
 `(Hint: Sliding Window)`
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[2154. Find Final Value of Variable After Performing Operations](https://leetcode.com/problems/find-final-value-of-variable-after-performing-operations)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
