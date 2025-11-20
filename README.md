@@ -177,6 +177,10 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two)
+`(Hint: Greedy)`
+
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid)
 
