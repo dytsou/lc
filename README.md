@@ -237,6 +237,9 @@
 [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
 `(Hint: Floyd-Warshall)`
 
