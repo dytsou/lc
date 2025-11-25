@@ -215,6 +215,9 @@
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)
 
