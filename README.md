@@ -375,6 +375,10 @@
 [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii)
 `(Hint: Sliding Window)`
 
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers)
+`(Hint: Binary Search / Greedy)`
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [2154. Find Final Value of Variable After Performing Operations](https://leetcode.com/problems/find-final-value-of-variable-after-performing-operations)
 
