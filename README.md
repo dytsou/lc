@@ -485,3 +485,7 @@
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [3623. Count Trapezoids](https://leetcode.com/problems/count-trapezoids)
+
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[3625. Count Trapezoids](https://leetcode.com/problems/count-trapezoids)
+`(Hint: Geometry)`
