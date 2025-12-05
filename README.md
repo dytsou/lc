@@ -484,8 +484,8 @@
 [3542. Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
-[3623. Count Trapezoids](https://leetcode.com/problems/count-trapezoids)
+[3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i)
 
 ![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
-[3625. Count Trapezoids](https://leetcode.com/problems/count-trapezoids)
+[3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii)
 `(Hint: Geometry)`
