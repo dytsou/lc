@@ -344,6 +344,9 @@
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples)
+
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [1930. Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
