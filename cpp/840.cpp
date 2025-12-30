@@ -6,52 +6,61 @@ using namespace std;
 class Solution {
 public:
     int numMagicSquaresInside(vector<vector<int>>& grid) {
-        int row = grid.size();
-        int col = grid[0].size();
-        int count = 0;
-        for(int i = 0; i < row - 2; i++){
-            for(int j = 0; j < col - 2; j++){
-                if(findMagicSquare(grid, i, j))
-                    count++;
+        int n = grid.size(), m = grid[0].size();
+        int result = 0;
+
+        for (int i = 1; i + 1 < n; i++) {
+            for (int j = 1; j + 1 < m; j++) {
+                if (grid[i][j] == 5 && checkMagicSquare(grid, i, j))
+                    ++result;
             }
         }
-        return count;
+        return result;
     }
+
 private:
-    bool findMagicSquare(vector<vector<int>>& grid, int i, int j){
-        // exist 1-9
-        vector<int> nums(10, 0);
-        for(int x = i; x < i + 3; x++){
-            for(int y = j; y < j + 3; y++){
-                if(grid[x][y] < 1 || grid[x][y] > 9) return false;
-                nums[grid[x][y]]++;
+    static bool isEven(int x) { return (x & 1) == 0; }
+    static bool sumOfTen(int a, int b) { return a + b == 10; }
+
+    bool checkMagicSquare(const vector<vector<int>>& g, int i, int j) {
+        int n = g.size(), m = g[0].size();
+        if (i - 1 < 0 || i + 1 >= n || j - 1 < 0 || j + 1 >= m) return false;
+
+        bool seen[10] = {false};
+        for (int r = i - 1; r <= i + 1; ++r) {
+            for (int c = j - 1; c <= j + 1; ++c) {
+                int x = g[r][c];
+                if (x < 1 || x > 9) return false;
+                if (seen[x]) return false;
+                seen[x] = true;
             }
         }
-        for(int k = 1; k <= 9; k++){
-            if(nums[k] != 1) return false;
-        }
-        // sum
-        int sum = 15;
-        // row sum
-        for(int y = j; y < j + 3; y++){
-            int temp = 0;
-            for(int x = i; x < i + 3; x++)
-                temp += grid[x][y];
-            if(temp != sum) return false;
-        }
-        // col sum
-        for(int x = i + 1; x < i + 3; x++){
-            int temp = 0;
-            for(int y = j; y < j + 3; y++)
-                temp += grid[x][y];
-            if(temp != sum) return false;
-        }
-        // diagonal sum
-        if(grid[i][j] + grid[i + 1][j + 1] + grid[i + 2][j + 2] != sum)
-            return false;
-        // anti-diagonal sum
-        if(grid[i][j + 2] + grid[i + 1][j + 1] + grid[i + 2][j] != sum)
-            return false;
+
+        if (!isEven(g[i - 1][j - 1]) || !isEven(g[i + 1][j - 1]) ||
+            !isEven(g[i - 1][j + 1]) || !isEven(g[i + 1][j + 1])) return false;
+
+        if (isEven(g[i][j - 1]) || isEven(g[i - 1][j]) ||
+            isEven(g[i][j + 1]) || isEven(g[i + 1][j])) return false;
+
+        if (!sumOfTen(g[i][j - 1], g[i][j + 1]) ||
+            !sumOfTen(g[i - 1][j], g[i + 1][j]) ||
+            !sumOfTen(g[i - 1][j - 1], g[i + 1][j + 1]) ||
+            !sumOfTen(g[i + 1][j - 1], g[i - 1][j + 1])) return false;
+
+        int s0 = g[i - 1][j - 1] + g[i - 1][j] + g[i - 1][j + 1];
+        int s1 = g[i][j - 1]     + g[i][j]     + g[i][j + 1];
+        int s2 = g[i + 1][j - 1] + g[i + 1][j] + g[i + 1][j + 1];
+        if (!(s0 == s1 && s1 == s2)) return false;
+
+        int c0 = g[i - 1][j - 1] + g[i][j - 1] + g[i + 1][j - 1];
+        int c1 = g[i - 1][j]     + g[i][j]     + g[i + 1][j];
+        int c2 = g[i - 1][j + 1] + g[i][j + 1] + g[i + 1][j + 1];
+        if (!(c0 == c1 && c1 == c2)) return false;
+
+        int d0 = g[i - 1][j - 1] + g[i][j] + g[i + 1][j + 1];
+        int d1 = g[i - 1][j + 1] + g[i][j] + g[i + 1][j - 1];
+        if (d0 != d1) return false;
+
         return true;
     }
 };
