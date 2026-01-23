@@ -487,6 +487,12 @@
 [3432. Count Partitions](https://leetcode.com/problems/count-partitions)
 
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
+[3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i)
+
+![hard](https://img.shields.io/badge/-FF0000?&style=plastic&logo=leetcode&labelColor=grey)
+[3510. Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii)
+
+![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [3512. Minimum Operations to Make All Elements Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-all-elements-divisible-by-k)
 
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
