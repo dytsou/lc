@@ -456,6 +456,9 @@
 ![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
 [3016. Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)
 
+![medium](https://img.shields.io/badge/-yellow?&style=plastic&logo=leetcode&labelColor=grey)
+[3047. Largest Square Area Between Two Rectangles](https://leetcode.com/problems/largest-square-area-between-two-rectangles)
+
 ![easy](https://img.shields.io/badge/-cyan?&style=plastic&logo=leetcode&labelColor=grey)
 [3190. Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/minimum-operations-to-make-all-elements-divisible-by-three)
 
